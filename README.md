@@ -1,5 +1,5 @@
-v# ml_flow
-
+# ml_flow
+- NLP_Project
 - Mlflow is an open source platform for managing the end-toend machine learning life cycles.
 - It can track experiments to record and compare parameters and result.
 
